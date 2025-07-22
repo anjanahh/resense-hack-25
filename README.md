@@ -1,5 +1,3 @@
-# Welcome to GitHub Desktop!
+The IoT-enabled ReSense platform reimagines civic participation in waste management by bridging digital innovation with physical infrastructure. This system introduces smart bins, connected donation kiosks, and GPS-tracked pickups to facilitate efficient collection, sorting, and upcycling of materials. Users can donate items via RFID-verified kiosks, monitor bin fill levels through sensors, and visualize their contributions in a live eco-dashboard.
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+By integrating real-time data collection with civic education (via on-screen or app-based pop-ups), the platform not only promotes sustainability but also instills a sense of civic responsibility and transparency. ReSense aims to evolve into a smart civic-tech ecosystem that empowers citizens, reduces landfill burden, and propels cities toward a circular economy model.
